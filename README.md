@@ -1,6 +1,6 @@
 # Course-Application-ASP.NETCore-MVC
 
-O InstaMVC é um projeto de exemplo que utiliza o framework ASP.NET MVC Core para criar um aplicativo web. Este projeto demonstra a criação de uma plataforma simples baseada na arquitetura Model-View-Controller (MVC) para compartilhamento de fotos, inspirada no Instagram.
+O MVC é um projeto de exemplo que utiliza o framework ASP.NET MVC Core para criar um aplicativo web. Este projeto demonstra a criação de uma plataforma simples baseada na arquitetura Model-View-Controller (MVC) para compartilhamento de fotos, inspirada no Instagram.
 
 ## Recursos Principais
 
