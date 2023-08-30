@@ -1,0 +1,9 @@
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.csproj.AssemblyReference.cache
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.AssemblyInfoInputs.cache
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.AssemblyInfo.cs
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.csproj.CoreCompileInputs.cache
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.RazorAssemblyInfo.cache
+C:\Users\br.alves\source\repos\Application-MVC\source\DevIO.App\obj\Debug\net5.0\DevIO.App.RazorAssemblyInfo.cs
