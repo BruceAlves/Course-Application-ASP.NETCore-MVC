@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8fnLPsy65848frpNe80Mqhx4ZeovkCgsGrdGIdiV4JEKpmThTN/Hwd1tNK94UDeuVRtflMvs9ey7FQLBszFCUg==",
+  "dgSpecHash": "fZ9z+4V8UrDGQJCi6Q6iLFVQzOQo6kWCGellh9z/FK68NBSmsi2gxXPsEGh9U9BYEIjePYhTHJ4SMpRK9niDWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\br.alves\\source\\repos\\Application-MVC\\source\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "C:\\Users\\br.alves\\source\\repos pessoal\\Application-MVC\\source\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\br.alves\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.1\\microsoft.entityframeworkcore.5.0.1.nupkg.sha512",
     "C:\\Users\\br.alves\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.1\\microsoft.entityframeworkcore.abstractions.5.0.1.nupkg.sha512",
