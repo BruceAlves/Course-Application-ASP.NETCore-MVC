@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\source",
+    "\\source\\DevIO.App"
   ],
-  "SelectedNode": "\\Application-MVC.sln",
+  "SelectedNode": "\\source\\DevIO.App\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace DevIO.Data.Mappings
 {
-    public class ProdutoMapping : IEntityTypeConfiguration<Produts>
+    public class ProdutoMapping : IEntityTypeConfiguration<Products>
     {
-        public void Configure(EntityTypeBuilder<Produts> builder)
+        public void Configure(EntityTypeBuilder<Products> builder)
         {
             builder.HasKey(x => x.Id);
             builder.Property(p => p.Name)

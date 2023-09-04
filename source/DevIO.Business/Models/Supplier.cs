@@ -17,7 +17,7 @@ namespace AppMVCBasic1.Models
 
         /*EF Relatrions*/
 
-        public IEnumerable<Produts> Products { get; set; }
+        public IEnumerable<Products> Products { get; set; }
     }
 
 

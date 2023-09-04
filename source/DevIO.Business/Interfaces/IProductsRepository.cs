@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace DevIO.Business.Interfaces
 {
-    public interface IProductsRepository : IRepository<Produts>
+    public interface IProductsRepository : IRepository<Products>
     {
-        Task<IEnumerable<Produts>> GetProductsBySuppliers(Guid supplierId);
-        Task<IEnumerable<Produts>> GetProductsSupplier();
-        Task<Produts> GetProductsSupplier(Guid id);
+        Task<IEnumerable<Products>> GetProductsBySuppliers(Guid supplierId);
+        Task<IEnumerable<Products>> GetProductsSupplier();
+        Task<Products> GetProductsSupplier(Guid id);
 
     }
 }
