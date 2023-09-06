@@ -23,6 +23,6 @@ namespace DevIO.App.ViewModels
         [DisplayName("Ativo?")]
         public bool Active { get; set; }
 
-        public IEnumerable<ProdutsViewModel> Products { get; set; }
+        public IEnumerable<ProductsViewModel> Products { get; set; }
     }
 }

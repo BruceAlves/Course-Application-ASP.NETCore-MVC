@@ -6,13 +6,10 @@ namespace AppMVCBasic1.Models
     public class Products : Entity
     {
         public Guid SupplierId { get; set; }
-
         
         public string Name { get; set; }
-
-        
+      
         public string Description { get; set; }
-
        
         public string Image { get; set; }
 

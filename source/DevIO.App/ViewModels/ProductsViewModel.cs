@@ -7,11 +7,12 @@ using System.ComponentModel.DataAnnotations;
 
 namespace DevIO.App.ViewModels
 {
-    public class ProdutsViewModel
+    public class ProductsViewModel
     {
         [Key]
         public Guid Id { get; set; }
 
+        [DisplayName("Fornecedores")]  
         public Guid SupplierId { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é obrigatório")]

@@ -9,7 +9,7 @@ namespace DevIO.App.AutoMapper
         public AutoMapperConfig()
         {
             CreateMap<Supplier, SupplierViewModel>().ReverseMap();
-            CreateMap<Products, ProdutsViewModel>().ReverseMap();
+            CreateMap<Products, ProductsViewModel>().ReverseMap();
             CreateMap<Address, AddressViewModel>().ReverseMap();
         }
     }

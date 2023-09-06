@@ -186,8 +186,8 @@ C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debu
 C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Suppliers\Details.cshtml.g.cs
 C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Suppliers\Edit.cshtml.g.cs
 C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Suppliers\Index.cshtml.g.cs
-C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\ProdutsViewModels\Create.cshtml.g.cs
-C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\ProdutsViewModels\Delete.cshtml.g.cs
-C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\ProdutsViewModels\Details.cshtml.g.cs
-C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\ProdutsViewModels\Edit.cshtml.g.cs
-C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\ProdutsViewModels\Index.cshtml.g.cs
+C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\br.alves\source\repos pessoal\Application-MVC\source\DevIO.App\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
