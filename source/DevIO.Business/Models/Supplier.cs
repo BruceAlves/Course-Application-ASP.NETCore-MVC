@@ -8,7 +8,8 @@ namespace AppMVCBasic1.Models
     {
         
         public string Name { get; set; }
-        public string Document { get; set; }       
+        public string Document { get; set; }
+        [DisplayName("Tipo")]
         public TypeSupplier TypeSupplier { get; set; }
         public Address Address { get; set; }
 

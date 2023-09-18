@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\source",
-    "\\source\\DevIO.App"
+    "\\source\\DevIO.App",
+    "\\source\\DevIO.App\\Controllers"
   ],
-  "SelectedNode": "\\source\\DevIO.App\\Startup.cs",
+  "SelectedNode": "\\source\\DevIO.App\\Controllers\\ProductsController.cs",
   "PreviewInSolutionExplorer": false
 }

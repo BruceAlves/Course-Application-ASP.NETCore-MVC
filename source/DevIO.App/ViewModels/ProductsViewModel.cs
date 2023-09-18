@@ -25,6 +25,7 @@ namespace DevIO.App.ViewModels
         public string Description { get; set; }
 
         public string Image { get; set; }
+        [DisplayName("Imagem do produto")]
         public IFormFile ImageUpload { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
@@ -38,7 +39,7 @@ namespace DevIO.App.ViewModels
 
         /*/EF Relation*/
 
-        public SupplierViewModel Supplier { get; set; }
+       public SupplierViewModel Supplier { get; set; }
         public IEnumerable<SupplierViewModel> Suppliers { get; set; }
     }
 }
